@@ -1,0 +1,5 @@
+store/product/ProductOut.class
+store/product/ProductIn.class
+store/product/ProductController.class
+store/product/ProductIn$ProductInBuilder.class
+store/product/ProductOut$ProductOutBuilder.class
